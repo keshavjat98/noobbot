@@ -1,0 +1,5 @@
+{
+	"ip":"IAS_GAMER98.aternos.me",
+	"port": "52368",
+	"name": "opbot"
+}
